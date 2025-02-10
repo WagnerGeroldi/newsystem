@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="68.4165mm" height="54.6521mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 7302.16 5833.07"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="880" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="700">
+	<font-face 
+		font-family="Good Timing Rg">
+		<font-face-src>
+			<font-face-name name="GoodTimingRg-Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="N" horiz-adv-x="813" d="M695.001 0c42.9991,0 64.9984,22.999 64.9984,67l0 583 -169 0 0 -379.001 -307.001 331.002c-29.9989,33.0002 -51.9983,47.9997 -105.998,47.9997l-42.0017 0c-53.9999,0 -80.9998,-25.0006 -80.9998,-73.9999l0 -576 170.002 0 0 417 334.998 -362c34.0021,-37.9985 53.0002,-54.9996 100,-54.9996l35.0018 0z"/>
+   <glyph unicode="S" horiz-adv-x="772" d="M532.999 0c122.002,0 209.002,79.0005 209.002,199.001 0,115.999 -87.0001,196.999 -209.002,196.999l-285.999 0c-25.0006,0 -41.9994,17.0011 -41.9994,44.001 0,27.9996 16.9988,42.9991 41.9994,42.9991l485.999 0 0 167 -493.999 0c-121,0 -208,-79.0005 -208,-197.001 0,-115.999 87.0001,-196 208,-196l285.999 0c25.0006,0 43.0013,-16.9988 43.0013,-44.9984 0,-28.0019 -18.0007,-44.001 -43.0013,-44.001l-485.999 0 0 -168 493.999 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Good Timing Rg";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#6A0DAD;stroke-width:21.35;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:royalblue}
+    .fil2 {fill:#6A0DAD}
+    .fnt0 {font-weight:bold;font-size:4708.43px;font-family:'Good Timing Rg'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2188467451424">
+   <path class="fil0" d="M1035.25 2777.33l0 1781.1 -1035.25 0 0 -2829.46c0,-312.13 197.19,-465.83 498.79,-465.83l197.76 0c269.95,0 408.59,69.32 585.56,264l1241.61 1338.67 0 -1602.67 1030.53 0 0 2862.42c0,268.24 -152.07,432.87 -423.44,432.87l-164.8 0c-268.84,0 -387.33,-106.98 -557.67,-297.35l-1373.08 -1483.74zm5165.44 1781.1l-2443.36 0 0 -1025.82 2405.7 0c60.01,0 85.06,-30.63 85.06,-89.77 0,-58.2 -24.72,-94.47 -85.06,-94.47l-1346.6 0c-614.06,0 -1096.76,-410.18 -1096.76,-1040.25 0,-634.62 477.32,-1044.97 1096.76,-1044.97l2443.36 0 0 1021.12 -2405.7 0c-59.78,0 -80.35,25.94 -80.35,85.05 0,55.84 22.36,89.77 80.35,89.77l1346.6 0c616.45,0 1101.47,412.74 1101.47,1044.96 0,641.29 -474.27,1054.38 -1101.47,1054.38z"/>
+  </g>
+  <text x="-141.56" y="4441.02"  class="fil1 fnt0">NS</text>
+  <path class="fil2 str0" d="M6466.26 157.98l-4.69 -79.79c-1630.66,-207.44 -5134.28,18.44 -6312.29,1289.77 205.71,-158.21 597.09,-142.8 859.32,-62.5 1637.09,-754.16 3474.08,-1259.49 5457.65,-1147.48z"/>
+  <path class="fil2 str0" d="M141.53 5669.92l4.69 79.79c1670.22,212.48 5042.78,2.6 6305.59,-1214.6 -196.96,32.63 -515.49,39.5 -857.43,26.65 -1637.09,754.16 -3469.28,1220.17 -5452.84,1108.16z"/>
+ </g>
+</svg>
